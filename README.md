@@ -1,1 +1,1 @@
-# CurrencyConverterInPureJS
+# CurrencyConverterReactJS
